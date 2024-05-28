@@ -1,0 +1,20 @@
+.to-do-list 
+{
+    margin-top: 25%;
+}
+
+#title 
+{
+    text-align: center;
+    font-family: "华文楷体", cursive;
+}
+
+.finished 
+{
+    text-decoration: line-through;
+}
+
+.timeout 
+{
+    color: red;
+}
